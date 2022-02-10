@@ -1,0 +1,19 @@
+{
+  "name": "films-project",
+  "version": "1.0.0",
+  "description": "App for films",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/semproms-64/films-project.git"
+  },
+  "author": "Luis and Ivan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/semproms-64/films-project/issues"
+  },
+  "homepage": "https://github.com/semproms-64/films-project#readme"
+}
